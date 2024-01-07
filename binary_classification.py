@@ -1,9 +1,3 @@
-# Databricks notebook source
-# MAGIC %md
-# MAGIC ## Read Dataset 
-# Magic Command Done
-# COMMAND ----------
-
 import pandas as pd
 
 # Read data into pandas data frame because Databricks can only read from local file
